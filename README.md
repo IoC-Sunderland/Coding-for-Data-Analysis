@@ -15,7 +15,7 @@ For use in IoC Coding for Data Analysis Course
 
 ## Alternative Instructions:
 
-Launch Notebook directly by clicking [here](https://mybinder.org/v2/gh/IoC-Sunderland/Coding-for-Data-Analysis/master?filepath=Python%20Basics%201.ipynb)
+Launch Notebook directly by clicking [here](https://mybinder.org/v2/gh/IoC-Sunderland/Coding-for-Data-Analysis/master)
 
 Enjoy! :tada:
 
