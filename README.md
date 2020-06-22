@@ -5,7 +5,7 @@ For use in IoC Coding for Data Analysis Course
 
 ## Instructions
 
-1. Go to www.mybinder.org
+1. Go to https://mybinder.org/
 
 2. Complete fields as below.
 
