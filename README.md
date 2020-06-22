@@ -1,4 +1,6 @@
 # Coding-for-Data-Analysis
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IoC-Sunderland/Coding-for-Data-Analysis/master)
+
 For use in IoC Coding for Data Analysis Course
 
 ## Instructions
