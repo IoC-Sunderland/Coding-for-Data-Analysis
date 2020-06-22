@@ -1,0 +1,8 @@
+Kangaroo, marsupial
+Koala, marsupial
+Wallaby, marsupial
+Echidna, monotreme
+Dingo, mammal
+Tasmanian devil, marsupial
+Platypus, monotreme
+Tasmanian devil, marsupial
