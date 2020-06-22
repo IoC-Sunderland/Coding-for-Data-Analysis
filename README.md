@@ -3,7 +3,7 @@ For use in IoC Coding for Data Analysis Course
 
 ## Instructions
 
-1. Go to [www.mybinder.org]
+1. Go to www.mybinder.org
 
 2. Complete fields as below:
 
@@ -15,6 +15,6 @@ For use in IoC Coding for Data Analysis Course
 
 Launch Notebook directly by clicking [here](https://mybinder.org/v2/gh/IoC-Sunderland/Coding-for-Data-Analysis/master?filepath=Python%20Basics%201.ipynb)
 
-Enjoy!
+Enjoy! :tada:
 
 IoC(Institute of Coding)
