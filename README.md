@@ -7,11 +7,12 @@ For use in IoC Coding for Data Analysis Course
 
 1. Go to www.mybinder.org
 
-2. Complete fields as below:
+2. Complete fields as below.
+
+3. Hit Launch!
 
 ![binder instructions](img/my_binder_launch.png)
 
-3. Hit Launch!
 
 ## Alternative Instructions:
 
