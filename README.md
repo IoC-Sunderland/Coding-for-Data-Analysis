@@ -9,7 +9,7 @@ For use in IoC Coding for Data Analysis Course
 
 2. Complete fields as below:
 
-![binder instructions](img/mybinderlaunch.png)
+![binder instructions](img/my_binder_launch.png)
 
 3. Hit Launch!
 
