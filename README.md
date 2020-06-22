@@ -5,4 +5,5 @@ For use in IoC Coding for Data Analysis Course
 
 1. Go to [www.mybinder.org]
 
-![binder instructions][mybinderlaunch.png]
+![binder instructions](mybinderlaunch.png)
+
