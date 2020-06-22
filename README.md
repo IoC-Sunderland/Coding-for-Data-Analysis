@@ -3,6 +3,6 @@ For use in IoC Coding for Data Analysis Course
 
 ## Instructions
 
-1. Go to (mybinder.org)[www.mybinder.org]
+1. Go to [www.mybinder.org]
 
-2. 
+2. ![binder instructions][mybinderlaunch.png]
