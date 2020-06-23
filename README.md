@@ -1,7 +1,7 @@
 # Coding-for-Data-Analysis
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IoC-Sunderland/Coding-for-Data-Analysis/master)
 
-<img style="float: right;" src="img/ioclogo.jpg">
+<img style="float: right;" src="img/IoC_Logo_OnBlue_AW 300px.png">
 
 For use in IoC Coding for Data Analysis Course
 
